@@ -1,4 +1,7 @@
+# UC: ambientes computacionais e conectividade
+ Prof: Alexandre "Montanha"
 # Atividade
-## Respostas Atividade sobre Sistemas operacionais.
-## UC: ambientes computacionais e conectividade
-## Prof: Alexandre "Montanha"
+Sistemas operacionais.
+## Respostas
+Arquivo pdf :)
+
